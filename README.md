@@ -1,5 +1,5 @@
 # MyChat
-Simple chat with server and client parts. 
+Simple Java chat with JavaFX GUI, server and client parts. 
 To use this chat you must know ip and host address of the server.
 Chat consists of connect button (makes connection to the server), login button ("name yourself =)"),
 output field (you can read evrything you write and recieve), list of clients (all on-line people),
